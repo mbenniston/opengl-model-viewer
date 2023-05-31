@@ -1,0 +1,18 @@
+[submodule "modules/glfw"]
+	path = modules/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "modules/glm"]
+	path = modules/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "modules/cppcodec"]
+	path = modules/cppcodec
+	url = https://github.com/tplgy/cppcodec.git
+[submodule "modules/imgui"]
+	path = modules/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "modules/glTF-reader"]
+	path = modules/glTF-reader
+	url = https://github.com/mbenniston/glTF-reader.git
+[submodule "modules/portable-file-dialogs"]
+	path = modules/portable-file-dialogs
+	url = https://github.com/samhocevar/portable-file-dialogs.git
